@@ -1,0 +1,14 @@
+C:\Users\chaitanya_vyshnavi\Documents\DOT_NET Learnings\Strcls\bin\Debug\net8.0\Strcls.exe
+C:\Users\chaitanya_vyshnavi\Documents\DOT_NET Learnings\Strcls\bin\Debug\net8.0\Strcls.deps.json
+C:\Users\chaitanya_vyshnavi\Documents\DOT_NET Learnings\Strcls\bin\Debug\net8.0\Strcls.runtimeconfig.json
+C:\Users\chaitanya_vyshnavi\Documents\DOT_NET Learnings\Strcls\bin\Debug\net8.0\Strcls.dll
+C:\Users\chaitanya_vyshnavi\Documents\DOT_NET Learnings\Strcls\bin\Debug\net8.0\Strcls.pdb
+C:\Users\chaitanya_vyshnavi\Documents\DOT_NET Learnings\Strcls\obj\Debug\net8.0\Strcls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaitanya_vyshnavi\Documents\DOT_NET Learnings\Strcls\obj\Debug\net8.0\Strcls.AssemblyInfoInputs.cache
+C:\Users\chaitanya_vyshnavi\Documents\DOT_NET Learnings\Strcls\obj\Debug\net8.0\Strcls.AssemblyInfo.cs
+C:\Users\chaitanya_vyshnavi\Documents\DOT_NET Learnings\Strcls\obj\Debug\net8.0\Strcls.csproj.CoreCompileInputs.cache
+C:\Users\chaitanya_vyshnavi\Documents\DOT_NET Learnings\Strcls\obj\Debug\net8.0\Strcls.dll
+C:\Users\chaitanya_vyshnavi\Documents\DOT_NET Learnings\Strcls\obj\Debug\net8.0\refint\Strcls.dll
+C:\Users\chaitanya_vyshnavi\Documents\DOT_NET Learnings\Strcls\obj\Debug\net8.0\Strcls.pdb
+C:\Users\chaitanya_vyshnavi\Documents\DOT_NET Learnings\Strcls\obj\Debug\net8.0\Strcls.genruntimeconfig.cache
+C:\Users\chaitanya_vyshnavi\Documents\DOT_NET Learnings\Strcls\obj\Debug\net8.0\ref\Strcls.dll

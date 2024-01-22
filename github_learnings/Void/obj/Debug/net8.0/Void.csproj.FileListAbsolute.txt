@@ -1,0 +1,14 @@
+C:\Users\chaitanya_vyshnavi\Documents\DOT_NET Learnings\Void\bin\Debug\net8.0\Void.exe
+C:\Users\chaitanya_vyshnavi\Documents\DOT_NET Learnings\Void\bin\Debug\net8.0\Void.deps.json
+C:\Users\chaitanya_vyshnavi\Documents\DOT_NET Learnings\Void\bin\Debug\net8.0\Void.runtimeconfig.json
+C:\Users\chaitanya_vyshnavi\Documents\DOT_NET Learnings\Void\bin\Debug\net8.0\Void.dll
+C:\Users\chaitanya_vyshnavi\Documents\DOT_NET Learnings\Void\bin\Debug\net8.0\Void.pdb
+C:\Users\chaitanya_vyshnavi\Documents\DOT_NET Learnings\Void\obj\Debug\net8.0\Void.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaitanya_vyshnavi\Documents\DOT_NET Learnings\Void\obj\Debug\net8.0\Void.AssemblyInfoInputs.cache
+C:\Users\chaitanya_vyshnavi\Documents\DOT_NET Learnings\Void\obj\Debug\net8.0\Void.AssemblyInfo.cs
+C:\Users\chaitanya_vyshnavi\Documents\DOT_NET Learnings\Void\obj\Debug\net8.0\Void.csproj.CoreCompileInputs.cache
+C:\Users\chaitanya_vyshnavi\Documents\DOT_NET Learnings\Void\obj\Debug\net8.0\Void.dll
+C:\Users\chaitanya_vyshnavi\Documents\DOT_NET Learnings\Void\obj\Debug\net8.0\refint\Void.dll
+C:\Users\chaitanya_vyshnavi\Documents\DOT_NET Learnings\Void\obj\Debug\net8.0\Void.pdb
+C:\Users\chaitanya_vyshnavi\Documents\DOT_NET Learnings\Void\obj\Debug\net8.0\Void.genruntimeconfig.cache
+C:\Users\chaitanya_vyshnavi\Documents\DOT_NET Learnings\Void\obj\Debug\net8.0\ref\Void.dll

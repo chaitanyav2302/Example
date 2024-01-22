@@ -1,0 +1,14 @@
+C:\Users\chaitanya_vyshnavi\Documents\DOT_NET Learnings\BoxingandUn\obj\Debug\net8.0\BoxingandUn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaitanya_vyshnavi\Documents\DOT_NET Learnings\BoxingandUn\obj\Debug\net8.0\BoxingandUn.AssemblyInfoInputs.cache
+C:\Users\chaitanya_vyshnavi\Documents\DOT_NET Learnings\BoxingandUn\obj\Debug\net8.0\BoxingandUn.AssemblyInfo.cs
+C:\Users\chaitanya_vyshnavi\Documents\DOT_NET Learnings\BoxingandUn\obj\Debug\net8.0\BoxingandUn.csproj.CoreCompileInputs.cache
+C:\Users\chaitanya_vyshnavi\Documents\DOT_NET Learnings\BoxingandUn\bin\Debug\net8.0\BoxingandUn.exe
+C:\Users\chaitanya_vyshnavi\Documents\DOT_NET Learnings\BoxingandUn\bin\Debug\net8.0\BoxingandUn.deps.json
+C:\Users\chaitanya_vyshnavi\Documents\DOT_NET Learnings\BoxingandUn\bin\Debug\net8.0\BoxingandUn.runtimeconfig.json
+C:\Users\chaitanya_vyshnavi\Documents\DOT_NET Learnings\BoxingandUn\bin\Debug\net8.0\BoxingandUn.dll
+C:\Users\chaitanya_vyshnavi\Documents\DOT_NET Learnings\BoxingandUn\bin\Debug\net8.0\BoxingandUn.pdb
+C:\Users\chaitanya_vyshnavi\Documents\DOT_NET Learnings\BoxingandUn\obj\Debug\net8.0\BoxingandUn.dll
+C:\Users\chaitanya_vyshnavi\Documents\DOT_NET Learnings\BoxingandUn\obj\Debug\net8.0\refint\BoxingandUn.dll
+C:\Users\chaitanya_vyshnavi\Documents\DOT_NET Learnings\BoxingandUn\obj\Debug\net8.0\BoxingandUn.pdb
+C:\Users\chaitanya_vyshnavi\Documents\DOT_NET Learnings\BoxingandUn\obj\Debug\net8.0\BoxingandUn.genruntimeconfig.cache
+C:\Users\chaitanya_vyshnavi\Documents\DOT_NET Learnings\BoxingandUn\obj\Debug\net8.0\ref\BoxingandUn.dll
