@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Void
-build_property.ProjectDir = c:\Users\chaitanya_vyshnavi\Documents\Github\example_dotnet\github_learnings\Void\
+build_property.ProjectDir = c:\Users\chaitanya_vyshnavi\Documents\Github\Example\github_learnings\Void\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
