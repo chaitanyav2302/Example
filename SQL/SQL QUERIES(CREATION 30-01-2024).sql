@@ -8,7 +8,7 @@ CREATE TABLE  users(
 
 select * from INFORMATION_SCHEMA.TABLES; /*to show the tables in the current database*/
 
-CREATE TABLE Article (
+CREATE TABLE article (
     ArticleId int primary key,
     Title nvarchar(100),
     Content text,
