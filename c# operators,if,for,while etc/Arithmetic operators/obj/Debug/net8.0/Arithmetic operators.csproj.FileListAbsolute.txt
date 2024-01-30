@@ -1,0 +1,15 @@
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\Arithmetic operators\bin\Debug\net8.0\Arithmetic operators.exe
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\Arithmetic operators\bin\Debug\net8.0\Arithmetic operators.deps.json
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\Arithmetic operators\bin\Debug\net8.0\Arithmetic operators.runtimeconfig.json
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\Arithmetic operators\bin\Debug\net8.0\Arithmetic operators.dll
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\Arithmetic operators\bin\Debug\net8.0\Arithmetic operators.pdb
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\Arithmetic operators\obj\Debug\net8.0\Arithmetic operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\Arithmetic operators\obj\Debug\net8.0\Arithmetic operators.AssemblyInfoInputs.cache
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\Arithmetic operators\obj\Debug\net8.0\Arithmetic operators.AssemblyInfo.cs
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\Arithmetic operators\obj\Debug\net8.0\Arithmetic operators.csproj.CoreCompileInputs.cache
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\Arithmetic operators\obj\Debug\net8.0\Arithmetic operators.sourcelink.json
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\Arithmetic operators\obj\Debug\net8.0\Arithmetic operators.dll
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\Arithmetic operators\obj\Debug\net8.0\refint\Arithmetic operators.dll
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\Arithmetic operators\obj\Debug\net8.0\Arithmetic operators.pdb
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\Arithmetic operators\obj\Debug\net8.0\Arithmetic operators.genruntimeconfig.cache
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\Arithmetic operators\obj\Debug\net8.0\ref\Arithmetic operators.dll

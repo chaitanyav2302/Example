@@ -1,0 +1,15 @@
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\logical\bin\Debug\net8.0\logical.exe
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\logical\bin\Debug\net8.0\logical.deps.json
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\logical\bin\Debug\net8.0\logical.runtimeconfig.json
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\logical\bin\Debug\net8.0\logical.dll
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\logical\bin\Debug\net8.0\logical.pdb
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\logical\obj\Debug\net8.0\logical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\logical\obj\Debug\net8.0\logical.AssemblyInfoInputs.cache
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\logical\obj\Debug\net8.0\logical.AssemblyInfo.cs
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\logical\obj\Debug\net8.0\logical.csproj.CoreCompileInputs.cache
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\logical\obj\Debug\net8.0\logical.sourcelink.json
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\logical\obj\Debug\net8.0\logical.dll
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\logical\obj\Debug\net8.0\refint\logical.dll
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\logical\obj\Debug\net8.0\logical.pdb
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\logical\obj\Debug\net8.0\logical.genruntimeconfig.cache
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\logical\obj\Debug\net8.0\ref\logical.dll

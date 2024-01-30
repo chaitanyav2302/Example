@@ -1,0 +1,15 @@
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\ternary\bin\Debug\net8.0\ternary.exe
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\ternary\bin\Debug\net8.0\ternary.deps.json
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\ternary\bin\Debug\net8.0\ternary.runtimeconfig.json
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\ternary\bin\Debug\net8.0\ternary.dll
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\ternary\bin\Debug\net8.0\ternary.pdb
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\ternary\obj\Debug\net8.0\ternary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\ternary\obj\Debug\net8.0\ternary.AssemblyInfoInputs.cache
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\ternary\obj\Debug\net8.0\ternary.AssemblyInfo.cs
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\ternary\obj\Debug\net8.0\ternary.csproj.CoreCompileInputs.cache
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\ternary\obj\Debug\net8.0\ternary.sourcelink.json
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\ternary\obj\Debug\net8.0\ternary.dll
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\ternary\obj\Debug\net8.0\refint\ternary.dll
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\ternary\obj\Debug\net8.0\ternary.pdb
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\ternary\obj\Debug\net8.0\ternary.genruntimeconfig.cache
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\ternary\obj\Debug\net8.0\ref\ternary.dll

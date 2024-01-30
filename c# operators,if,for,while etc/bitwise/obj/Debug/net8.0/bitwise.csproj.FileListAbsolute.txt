@@ -1,0 +1,15 @@
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\bitwise\bin\Debug\net8.0\bitwise.exe
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\bitwise\bin\Debug\net8.0\bitwise.deps.json
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\bitwise\bin\Debug\net8.0\bitwise.runtimeconfig.json
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\bitwise\bin\Debug\net8.0\bitwise.dll
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\bitwise\bin\Debug\net8.0\bitwise.pdb
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\bitwise\obj\Debug\net8.0\bitwise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\bitwise\obj\Debug\net8.0\bitwise.AssemblyInfoInputs.cache
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\bitwise\obj\Debug\net8.0\bitwise.AssemblyInfo.cs
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\bitwise\obj\Debug\net8.0\bitwise.csproj.CoreCompileInputs.cache
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\bitwise\obj\Debug\net8.0\bitwise.sourcelink.json
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\bitwise\obj\Debug\net8.0\bitwise.dll
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\bitwise\obj\Debug\net8.0\refint\bitwise.dll
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\bitwise\obj\Debug\net8.0\bitwise.pdb
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\bitwise\obj\Debug\net8.0\bitwise.genruntimeconfig.cache
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\bitwise\obj\Debug\net8.0\ref\bitwise.dll

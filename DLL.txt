@@ -1,0 +1,21 @@
+.core aand services should be compiled 
+
+
+
+clean all the 28 files bin folders
+which 
+cts,cli,cls
+
+assembly 
+.dll(dynamic link library) and .exe
+mathematical operation project
+dll is reusable amd exe is not
+we can share the dll but not exe
+
+asseblies are two types
+private and shared assemlies
+extension of assemblies
+exe ,dll 
+Common location:GAC
+HOW DO WE PUSH PRIVATE DLL IN GAC LIBRARY
+PUBLIC KEY TIKEN VERSION NAMING ASSEMBLY

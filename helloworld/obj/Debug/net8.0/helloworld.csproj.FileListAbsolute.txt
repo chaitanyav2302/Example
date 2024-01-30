@@ -12,3 +12,4 @@ C:\Users\chaitanya_vyshnavi\Documents\Github\Example\helloworld\obj\Debug\net8.0
 C:\Users\chaitanya_vyshnavi\Documents\Github\Example\helloworld\obj\Debug\net8.0\helloworld.pdb
 C:\Users\chaitanya_vyshnavi\Documents\Github\Example\helloworld\obj\Debug\net8.0\helloworld.genruntimeconfig.cache
 C:\Users\chaitanya_vyshnavi\Documents\Github\Example\helloworld\obj\Debug\net8.0\ref\helloworld.dll
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\helloworld\obj\Debug\net8.0\helloworld.sourcelink.json

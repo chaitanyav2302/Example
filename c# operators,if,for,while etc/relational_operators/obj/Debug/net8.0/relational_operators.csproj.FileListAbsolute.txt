@@ -1,0 +1,15 @@
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\relational_operators\obj\Debug\net8.0\relational_operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\relational_operators\obj\Debug\net8.0\relational_operators.AssemblyInfoInputs.cache
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\relational_operators\obj\Debug\net8.0\relational_operators.AssemblyInfo.cs
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\relational_operators\obj\Debug\net8.0\relational_operators.csproj.CoreCompileInputs.cache
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\relational_operators\obj\Debug\net8.0\relational_operators.sourcelink.json
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\relational_operators\bin\Debug\net8.0\relational_operators.exe
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\relational_operators\bin\Debug\net8.0\relational_operators.deps.json
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\relational_operators\bin\Debug\net8.0\relational_operators.runtimeconfig.json
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\relational_operators\bin\Debug\net8.0\relational_operators.dll
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\relational_operators\bin\Debug\net8.0\relational_operators.pdb
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\relational_operators\obj\Debug\net8.0\relational_operators.dll
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\relational_operators\obj\Debug\net8.0\refint\relational_operators.dll
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\relational_operators\obj\Debug\net8.0\relational_operators.pdb
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\relational_operators\obj\Debug\net8.0\relational_operators.genruntimeconfig.cache
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\c# operators,if,for,while etc\relational_operators\obj\Debug\net8.0\ref\relational_operators.dll
