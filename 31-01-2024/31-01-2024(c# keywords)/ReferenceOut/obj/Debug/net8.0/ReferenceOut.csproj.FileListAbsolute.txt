@@ -1,0 +1,14 @@
+C:\Users\chaitanya_vyshnavi\Desktop\31-01-2024(c# keywords)\ReferenceOut\bin\Debug\net8.0\ReferenceOut.exe
+C:\Users\chaitanya_vyshnavi\Desktop\31-01-2024(c# keywords)\ReferenceOut\bin\Debug\net8.0\ReferenceOut.deps.json
+C:\Users\chaitanya_vyshnavi\Desktop\31-01-2024(c# keywords)\ReferenceOut\bin\Debug\net8.0\ReferenceOut.runtimeconfig.json
+C:\Users\chaitanya_vyshnavi\Desktop\31-01-2024(c# keywords)\ReferenceOut\bin\Debug\net8.0\ReferenceOut.dll
+C:\Users\chaitanya_vyshnavi\Desktop\31-01-2024(c# keywords)\ReferenceOut\bin\Debug\net8.0\ReferenceOut.pdb
+C:\Users\chaitanya_vyshnavi\Desktop\31-01-2024(c# keywords)\ReferenceOut\obj\Debug\net8.0\ReferenceOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaitanya_vyshnavi\Desktop\31-01-2024(c# keywords)\ReferenceOut\obj\Debug\net8.0\ReferenceOut.AssemblyInfoInputs.cache
+C:\Users\chaitanya_vyshnavi\Desktop\31-01-2024(c# keywords)\ReferenceOut\obj\Debug\net8.0\ReferenceOut.AssemblyInfo.cs
+C:\Users\chaitanya_vyshnavi\Desktop\31-01-2024(c# keywords)\ReferenceOut\obj\Debug\net8.0\ReferenceOut.csproj.CoreCompileInputs.cache
+C:\Users\chaitanya_vyshnavi\Desktop\31-01-2024(c# keywords)\ReferenceOut\obj\Debug\net8.0\ReferenceOut.dll
+C:\Users\chaitanya_vyshnavi\Desktop\31-01-2024(c# keywords)\ReferenceOut\obj\Debug\net8.0\refint\ReferenceOut.dll
+C:\Users\chaitanya_vyshnavi\Desktop\31-01-2024(c# keywords)\ReferenceOut\obj\Debug\net8.0\ReferenceOut.pdb
+C:\Users\chaitanya_vyshnavi\Desktop\31-01-2024(c# keywords)\ReferenceOut\obj\Debug\net8.0\ReferenceOut.genruntimeconfig.cache
+C:\Users\chaitanya_vyshnavi\Desktop\31-01-2024(c# keywords)\ReferenceOut\obj\Debug\net8.0\ref\ReferenceOut.dll

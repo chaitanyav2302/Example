@@ -1,0 +1,14 @@
+C:\Users\chaitanya_vyshnavi\Desktop\31-01-2024(c# keywords)\ParamEx\bin\Debug\net8.0\ParamEx.exe
+C:\Users\chaitanya_vyshnavi\Desktop\31-01-2024(c# keywords)\ParamEx\bin\Debug\net8.0\ParamEx.deps.json
+C:\Users\chaitanya_vyshnavi\Desktop\31-01-2024(c# keywords)\ParamEx\bin\Debug\net8.0\ParamEx.runtimeconfig.json
+C:\Users\chaitanya_vyshnavi\Desktop\31-01-2024(c# keywords)\ParamEx\bin\Debug\net8.0\ParamEx.dll
+C:\Users\chaitanya_vyshnavi\Desktop\31-01-2024(c# keywords)\ParamEx\bin\Debug\net8.0\ParamEx.pdb
+C:\Users\chaitanya_vyshnavi\Desktop\31-01-2024(c# keywords)\ParamEx\obj\Debug\net8.0\ParamEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaitanya_vyshnavi\Desktop\31-01-2024(c# keywords)\ParamEx\obj\Debug\net8.0\ParamEx.AssemblyInfoInputs.cache
+C:\Users\chaitanya_vyshnavi\Desktop\31-01-2024(c# keywords)\ParamEx\obj\Debug\net8.0\ParamEx.AssemblyInfo.cs
+C:\Users\chaitanya_vyshnavi\Desktop\31-01-2024(c# keywords)\ParamEx\obj\Debug\net8.0\ParamEx.csproj.CoreCompileInputs.cache
+C:\Users\chaitanya_vyshnavi\Desktop\31-01-2024(c# keywords)\ParamEx\obj\Debug\net8.0\ParamEx.dll
+C:\Users\chaitanya_vyshnavi\Desktop\31-01-2024(c# keywords)\ParamEx\obj\Debug\net8.0\refint\ParamEx.dll
+C:\Users\chaitanya_vyshnavi\Desktop\31-01-2024(c# keywords)\ParamEx\obj\Debug\net8.0\ParamEx.pdb
+C:\Users\chaitanya_vyshnavi\Desktop\31-01-2024(c# keywords)\ParamEx\obj\Debug\net8.0\ParamEx.genruntimeconfig.cache
+C:\Users\chaitanya_vyshnavi\Desktop\31-01-2024(c# keywords)\ParamEx\obj\Debug\net8.0\ref\ParamEx.dll
