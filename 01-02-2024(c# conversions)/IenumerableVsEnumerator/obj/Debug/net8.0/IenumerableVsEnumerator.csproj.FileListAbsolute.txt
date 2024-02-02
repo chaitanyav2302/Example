@@ -1,0 +1,15 @@
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\01-02-2024(c# conversions)\IenumerableVsEnumerator\obj\Debug\net8.0\IenumerableVsEnumerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\01-02-2024(c# conversions)\IenumerableVsEnumerator\obj\Debug\net8.0\IenumerableVsEnumerator.AssemblyInfoInputs.cache
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\01-02-2024(c# conversions)\IenumerableVsEnumerator\obj\Debug\net8.0\IenumerableVsEnumerator.AssemblyInfo.cs
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\01-02-2024(c# conversions)\IenumerableVsEnumerator\obj\Debug\net8.0\IenumerableVsEnumerator.csproj.CoreCompileInputs.cache
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\01-02-2024(c# conversions)\IenumerableVsEnumerator\obj\Debug\net8.0\IenumerableVsEnumerator.sourcelink.json
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\01-02-2024(c# conversions)\IenumerableVsEnumerator\bin\Debug\net8.0\IenumerableVsEnumerator.exe
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\01-02-2024(c# conversions)\IenumerableVsEnumerator\bin\Debug\net8.0\IenumerableVsEnumerator.deps.json
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\01-02-2024(c# conversions)\IenumerableVsEnumerator\bin\Debug\net8.0\IenumerableVsEnumerator.runtimeconfig.json
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\01-02-2024(c# conversions)\IenumerableVsEnumerator\bin\Debug\net8.0\IenumerableVsEnumerator.dll
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\01-02-2024(c# conversions)\IenumerableVsEnumerator\bin\Debug\net8.0\IenumerableVsEnumerator.pdb
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\01-02-2024(c# conversions)\IenumerableVsEnumerator\obj\Debug\net8.0\IenumerableVsEnumerator.dll
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\01-02-2024(c# conversions)\IenumerableVsEnumerator\obj\Debug\net8.0\refint\IenumerableVsEnumerator.dll
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\01-02-2024(c# conversions)\IenumerableVsEnumerator\obj\Debug\net8.0\IenumerableVsEnumerator.pdb
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\01-02-2024(c# conversions)\IenumerableVsEnumerator\obj\Debug\net8.0\IenumerableVsEnumerator.genruntimeconfig.cache
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\01-02-2024(c# conversions)\IenumerableVsEnumerator\obj\Debug\net8.0\ref\IenumerableVsEnumerator.dll

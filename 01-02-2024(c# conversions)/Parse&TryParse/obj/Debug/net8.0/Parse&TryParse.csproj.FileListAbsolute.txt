@@ -1,0 +1,15 @@
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\01-02-2024(c# conversions)\Parse&TryParse\obj\Debug\net8.0\Parse&TryParse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\01-02-2024(c# conversions)\Parse&TryParse\obj\Debug\net8.0\Parse&TryParse.AssemblyInfoInputs.cache
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\01-02-2024(c# conversions)\Parse&TryParse\obj\Debug\net8.0\Parse&TryParse.AssemblyInfo.cs
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\01-02-2024(c# conversions)\Parse&TryParse\obj\Debug\net8.0\Parse&TryParse.csproj.CoreCompileInputs.cache
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\01-02-2024(c# conversions)\Parse&TryParse\obj\Debug\net8.0\Parse&TryParse.sourcelink.json
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\01-02-2024(c# conversions)\Parse&TryParse\bin\Debug\net8.0\Parse&TryParse.exe
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\01-02-2024(c# conversions)\Parse&TryParse\bin\Debug\net8.0\Parse&TryParse.deps.json
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\01-02-2024(c# conversions)\Parse&TryParse\bin\Debug\net8.0\Parse&TryParse.runtimeconfig.json
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\01-02-2024(c# conversions)\Parse&TryParse\bin\Debug\net8.0\Parse&TryParse.dll
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\01-02-2024(c# conversions)\Parse&TryParse\bin\Debug\net8.0\Parse&TryParse.pdb
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\01-02-2024(c# conversions)\Parse&TryParse\obj\Debug\net8.0\Parse&TryParse.dll
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\01-02-2024(c# conversions)\Parse&TryParse\obj\Debug\net8.0\refint\Parse&TryParse.dll
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\01-02-2024(c# conversions)\Parse&TryParse\obj\Debug\net8.0\Parse&TryParse.pdb
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\01-02-2024(c# conversions)\Parse&TryParse\obj\Debug\net8.0\Parse&TryParse.genruntimeconfig.cache
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\01-02-2024(c# conversions)\Parse&TryParse\obj\Debug\net8.0\ref\Parse&TryParse.dll

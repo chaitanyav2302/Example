@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Docdll</name>
+    </assembly>
+    <members>
+        <member name="T:Docdll.Book">
+            <summary>
+            Represents a simple Book class.
+            </summary>
+        </member>
+        <member name="P:Docdll.Book.Title">
+            <summary>
+            Gets or sets the title of the book.
+            </summary>
+        </member>
+        <member name="P:Docdll.Book.Author">
+            <summary>
+            Gets or sets the author of the book.
+            </summary>
+        </member>
+        <member name="P:Docdll.Book.PublicationYear">
+            <summary>
+            Gets or sets the publication year of the book.
+            </summary>
+        </member>
+        <member name="M:Docdll.Book.#ctor(System.String,System.String,System.Int32)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Docdll.Book"/> class.
+            </summary>
+            <param name="title">The title of the book.</param>
+            <param name="author">The author of the book.</param>
+            <param name="publicationYear">The publication year of the book.</param>
+        </member>
+        <member name="M:Docdll.Book.DisplayInfo">
+            <summary>
+            Displays information about the book.
+            </summary>
+        </member>
+        <member name="M:Docdll.Book.YearsSincePublication">
+            <summary>
+            Calculates the years since publication.
+            </summary>
+            <returns>The number of years since publication.</returns>
+        </member>
+    </members>
+</doc>

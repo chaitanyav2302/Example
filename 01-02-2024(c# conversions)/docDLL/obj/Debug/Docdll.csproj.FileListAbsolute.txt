@@ -1,0 +1,7 @@
+C:\Users\chaitanya_vyshnavi\source\repos\Docdll\bin\Debug\Docdll.dll
+C:\Users\chaitanya_vyshnavi\source\repos\Docdll\bin\Debug\Docdll.pdb
+C:\Users\chaitanya_vyshnavi\source\repos\Docdll\obj\Debug\Docdll.csproj.AssemblyReference.cache
+C:\Users\chaitanya_vyshnavi\source\repos\Docdll\obj\Debug\Docdll.csproj.CoreCompileInputs.cache
+C:\Users\chaitanya_vyshnavi\source\repos\Docdll\obj\Debug\Docdll.dll
+C:\Users\chaitanya_vyshnavi\source\repos\Docdll\obj\Debug\Docdll.pdb
+C:\Users\chaitanya_vyshnavi\source\repos\Docdll\bin\Debug\Docdll.xml

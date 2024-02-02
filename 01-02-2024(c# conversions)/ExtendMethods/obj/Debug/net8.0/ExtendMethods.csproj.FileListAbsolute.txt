@@ -1,0 +1,15 @@
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\01-02-2024(c# conversions)\ExtendMethods\obj\Debug\net8.0\ExtendMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\01-02-2024(c# conversions)\ExtendMethods\obj\Debug\net8.0\ExtendMethods.AssemblyInfoInputs.cache
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\01-02-2024(c# conversions)\ExtendMethods\obj\Debug\net8.0\ExtendMethods.AssemblyInfo.cs
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\01-02-2024(c# conversions)\ExtendMethods\obj\Debug\net8.0\ExtendMethods.csproj.CoreCompileInputs.cache
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\01-02-2024(c# conversions)\ExtendMethods\obj\Debug\net8.0\ExtendMethods.sourcelink.json
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\01-02-2024(c# conversions)\ExtendMethods\bin\Debug\net8.0\ExtendMethods.exe
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\01-02-2024(c# conversions)\ExtendMethods\bin\Debug\net8.0\ExtendMethods.deps.json
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\01-02-2024(c# conversions)\ExtendMethods\bin\Debug\net8.0\ExtendMethods.runtimeconfig.json
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\01-02-2024(c# conversions)\ExtendMethods\bin\Debug\net8.0\ExtendMethods.dll
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\01-02-2024(c# conversions)\ExtendMethods\bin\Debug\net8.0\ExtendMethods.pdb
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\01-02-2024(c# conversions)\ExtendMethods\obj\Debug\net8.0\ExtendMethods.dll
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\01-02-2024(c# conversions)\ExtendMethods\obj\Debug\net8.0\refint\ExtendMethods.dll
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\01-02-2024(c# conversions)\ExtendMethods\obj\Debug\net8.0\ExtendMethods.pdb
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\01-02-2024(c# conversions)\ExtendMethods\obj\Debug\net8.0\ExtendMethods.genruntimeconfig.cache
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\01-02-2024(c# conversions)\ExtendMethods\obj\Debug\net8.0\ref\ExtendMethods.dll
