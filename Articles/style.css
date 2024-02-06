@@ -1,0 +1,24 @@
+.navbar{
+    background-color: black;
+    color: white;
+}
+#navq{
+    color: white;
+    height:100px
+}
+#navbarNavDropdown{
+    color: white;
+}
+.row{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#cardBox{
+    height:200px;
+    weight:200px;
+}
+.card img{
+    height:300px;
+}

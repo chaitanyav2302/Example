@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chaitanya_vyshnavi\\Desktop\\31-01-2024(c# keywords)\\PartialClasses\\PartialClasses.csproj",
+      "projectUniqueName": "C:\\Users\\chaitanya_vyshnavi\\Documents\\Github\\Example\\31-01-2024\\31-01-2024(c# keywords)\\PartialClasses\\PartialClasses.csproj",
       "projectName": "PartialClasses",
-      "projectPath": "C:\\Users\\chaitanya_vyshnavi\\Desktop\\31-01-2024(c# keywords)\\PartialClasses\\PartialClasses.csproj",
+      "projectPath": "C:\\Users\\chaitanya_vyshnavi\\Documents\\Github\\Example\\31-01-2024\\31-01-2024(c# keywords)\\PartialClasses\\PartialClasses.csproj",
       "packagesPath": "C:\\Users\\chaitanya_vyshnavi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chaitanya_vyshnavi\\Desktop\\31-01-2024(c# keywords)\\PartialClasses\\obj\\",
+      "outputPath": "C:\\Users\\chaitanya_vyshnavi\\Documents\\Github\\Example\\31-01-2024\\31-01-2024(c# keywords)\\PartialClasses\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\chaitanya_vyshnavi\\AppData\\Roaming\\NuGet\\NuGet.Config",

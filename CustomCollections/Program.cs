@@ -20,7 +20,6 @@ namespace CustomCollections
              custList.AddFirst(5);
              custList.AddLast(6);
 
-
             Console.WriteLine(custList.Contains(3));
 
             custList.AddBeforeElement(2, 10);

@@ -21,13 +21,12 @@ namespace CustomLinkedList
         }
     }
 
-    public class Vdlist<T> : IEnumerable<T>, ICollection<T>
+   public class Vdlist<T> : IEnumerable<T>,ICollection<T>
     {
         private Node<T> head;
-
         int ICollection<T>.Count => throw new NotImplementedException();
-
         bool ICollection<T>.IsReadOnly => throw new NotImplementedException();
+
         //Adding element to the last of the linkedlist
         public void AddLast(T data)
         {
@@ -273,6 +272,7 @@ namespace CustomLinkedList
         {
             return GetEnumerator();
         }
+       
 
         void ICollection<T>.Add(T item)
         {
@@ -293,6 +293,7 @@ namespace CustomLinkedList
         {
             throw new NotImplementedException();
         }
+
     }
 
 }

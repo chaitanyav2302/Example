@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2sLDvgdWXgXnZdu0W3gMZ2dKWKYzPLejlDGdzgaHS3Q+jrln3YjeVdqTOTOUYDUBJ1VzVXDe3Gic2iKBOPDzRA==",
+  "dgSpecHash": "kjnEDG3AAcKVYgSAKyelepR8tvdFAqbg5iGBiZ+LzGYlW6GUr9K51Gp3D9ifx+3I8MMwDgNlf25fBV++Dv2lBQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\chaitanya_vyshnavi\\Documents\\Github\\example_dotnet\\DelegateEG\\DelegateEG.csproj",
+  "projectFilePath": "C:\\Users\\chaitanya_vyshnavi\\Documents\\Github\\Example\\DelegateEG\\DelegateEG.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
