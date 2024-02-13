@@ -1,0 +1,15 @@
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\Serialization_demoxml\bin\Debug\net8.0\Serialization_demoxml.exe
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\Serialization_demoxml\bin\Debug\net8.0\Serialization_demoxml.deps.json
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\Serialization_demoxml\bin\Debug\net8.0\Serialization_demoxml.runtimeconfig.json
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\Serialization_demoxml\bin\Debug\net8.0\Serialization_demoxml.dll
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\Serialization_demoxml\bin\Debug\net8.0\Serialization_demoxml.pdb
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\Serialization_demoxml\obj\Debug\net8.0\Serialization_demoxml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\Serialization_demoxml\obj\Debug\net8.0\Serialization_demoxml.AssemblyInfoInputs.cache
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\Serialization_demoxml\obj\Debug\net8.0\Serialization_demoxml.AssemblyInfo.cs
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\Serialization_demoxml\obj\Debug\net8.0\Serialization_demoxml.csproj.CoreCompileInputs.cache
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\Serialization_demoxml\obj\Debug\net8.0\Serialization_demoxml.sourcelink.json
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\Serialization_demoxml\obj\Debug\net8.0\Serialization_demoxml.dll
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\Serialization_demoxml\obj\Debug\net8.0\refint\Serialization_demoxml.dll
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\Serialization_demoxml\obj\Debug\net8.0\Serialization_demoxml.pdb
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\Serialization_demoxml\obj\Debug\net8.0\Serialization_demoxml.genruntimeconfig.cache
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\Serialization_demoxml\obj\Debug\net8.0\ref\Serialization_demoxml.dll

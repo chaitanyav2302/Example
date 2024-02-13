@@ -1,0 +1,11 @@
+using System;
+
+    class Program{
+        static void Main(string[] args)
+        {
+            int a =10;
+            string x = "vysh";
+            Console.WriteLine(a);
+            Console.WriteLine(x);
+        }
+}

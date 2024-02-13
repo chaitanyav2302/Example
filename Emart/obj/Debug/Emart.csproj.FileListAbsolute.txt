@@ -1,0 +1,10 @@
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\Emart\bin\Debug\Emart.exe.config
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\Emart\bin\Debug\Emart.exe
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\Emart\bin\Debug\Emart.pdb
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\Emart\obj\Debug\Emart.csproj.AssemblyReference.cache
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\Emart\obj\Debug\Emart.Form1.resources
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\Emart\obj\Debug\Emart.Properties.Resources.resources
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\Emart\obj\Debug\Emart.csproj.GenerateResource.cache
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\Emart\obj\Debug\Emart.csproj.CoreCompileInputs.cache
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\Emart\obj\Debug\Emart.exe
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\Emart\obj\Debug\Emart.pdb

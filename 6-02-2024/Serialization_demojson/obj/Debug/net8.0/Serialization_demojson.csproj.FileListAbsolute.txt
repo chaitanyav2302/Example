@@ -1,0 +1,15 @@
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\Serialization_demojson\bin\Debug\net8.0\Serialization_demojson.exe
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\Serialization_demojson\bin\Debug\net8.0\Serialization_demojson.deps.json
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\Serialization_demojson\bin\Debug\net8.0\Serialization_demojson.runtimeconfig.json
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\Serialization_demojson\bin\Debug\net8.0\Serialization_demojson.dll
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\Serialization_demojson\bin\Debug\net8.0\Serialization_demojson.pdb
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\Serialization_demojson\obj\Debug\net8.0\Serialization_demojson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\Serialization_demojson\obj\Debug\net8.0\Serialization_demojson.AssemblyInfoInputs.cache
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\Serialization_demojson\obj\Debug\net8.0\Serialization_demojson.AssemblyInfo.cs
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\Serialization_demojson\obj\Debug\net8.0\Serialization_demojson.csproj.CoreCompileInputs.cache
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\Serialization_demojson\obj\Debug\net8.0\Serialization_demojson.sourcelink.json
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\Serialization_demojson\obj\Debug\net8.0\Serialization_demojson.dll
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\Serialization_demojson\obj\Debug\net8.0\refint\Serialization_demojson.dll
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\Serialization_demojson\obj\Debug\net8.0\Serialization_demojson.pdb
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\Serialization_demojson\obj\Debug\net8.0\Serialization_demojson.genruntimeconfig.cache
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\Serialization_demojson\obj\Debug\net8.0\ref\Serialization_demojson.dll

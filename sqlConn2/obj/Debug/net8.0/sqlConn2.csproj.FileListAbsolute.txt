@@ -1,0 +1,5 @@
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\sqlConn2\obj\Debug\net8.0\sqlConn2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\sqlConn2\obj\Debug\net8.0\sqlConn2.AssemblyInfoInputs.cache
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\sqlConn2\obj\Debug\net8.0\sqlConn2.AssemblyInfo.cs
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\sqlConn2\obj\Debug\net8.0\sqlConn2.csproj.CoreCompileInputs.cache
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\sqlConn2\obj\Debug\net8.0\sqlConn2.sourcelink.json

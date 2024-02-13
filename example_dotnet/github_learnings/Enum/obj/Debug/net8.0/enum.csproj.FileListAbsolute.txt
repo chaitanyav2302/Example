@@ -1,0 +1,14 @@
+C:\Users\chaitanya_vyshnavi\Documents\DOT_NET Learnings\Enum\bin\Debug\net8.0\enum.exe
+C:\Users\chaitanya_vyshnavi\Documents\DOT_NET Learnings\Enum\bin\Debug\net8.0\enum.deps.json
+C:\Users\chaitanya_vyshnavi\Documents\DOT_NET Learnings\Enum\bin\Debug\net8.0\enum.runtimeconfig.json
+C:\Users\chaitanya_vyshnavi\Documents\DOT_NET Learnings\Enum\bin\Debug\net8.0\enum.dll
+C:\Users\chaitanya_vyshnavi\Documents\DOT_NET Learnings\Enum\bin\Debug\net8.0\enum.pdb
+C:\Users\chaitanya_vyshnavi\Documents\DOT_NET Learnings\Enum\obj\Debug\net8.0\enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaitanya_vyshnavi\Documents\DOT_NET Learnings\Enum\obj\Debug\net8.0\enum.AssemblyInfoInputs.cache
+C:\Users\chaitanya_vyshnavi\Documents\DOT_NET Learnings\Enum\obj\Debug\net8.0\enum.AssemblyInfo.cs
+C:\Users\chaitanya_vyshnavi\Documents\DOT_NET Learnings\Enum\obj\Debug\net8.0\enum.csproj.CoreCompileInputs.cache
+C:\Users\chaitanya_vyshnavi\Documents\DOT_NET Learnings\Enum\obj\Debug\net8.0\enum.dll
+C:\Users\chaitanya_vyshnavi\Documents\DOT_NET Learnings\Enum\obj\Debug\net8.0\refint\enum.dll
+C:\Users\chaitanya_vyshnavi\Documents\DOT_NET Learnings\Enum\obj\Debug\net8.0\enum.pdb
+C:\Users\chaitanya_vyshnavi\Documents\DOT_NET Learnings\Enum\obj\Debug\net8.0\enum.genruntimeconfig.cache
+C:\Users\chaitanya_vyshnavi\Documents\DOT_NET Learnings\Enum\obj\Debug\net8.0\ref\enum.dll

@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DelegateTypes",
+    "\\Practise",
+    "\\Serialization_dataContract\\bin",
+    "\\Serialization_dataContract\\bin\\Debug",
+    "\\Serialization_dataContract\\bin\\Debug\\net8.0",
+    "\\Serialization_demo",
+    "\\Serialization_demojson",
+    "\\Serialization_demoxml"
+  ],
+  "SelectedNode": "\\Serialization_demo\\Serialization_demo.csproj",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,7 @@
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\SqlConn3\bin\Debug\SqlConn3.exe.config
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\SqlConn3\bin\Debug\SqlConn3.exe
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\SqlConn3\bin\Debug\SqlConn3.pdb
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\SqlConn3\obj\Debug\SqlConn3.csproj.AssemblyReference.cache
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\SqlConn3\obj\Debug\SqlConn3.csproj.CoreCompileInputs.cache
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\SqlConn3\obj\Debug\SqlConn3.exe
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\SqlConn3\obj\Debug\SqlConn3.pdb

@@ -1,0 +1,15 @@
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\DelegateTypes2\obj\Debug\net8.0\DelegateTypes2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\DelegateTypes2\obj\Debug\net8.0\DelegateTypes2.AssemblyInfoInputs.cache
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\DelegateTypes2\obj\Debug\net8.0\DelegateTypes2.AssemblyInfo.cs
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\DelegateTypes2\obj\Debug\net8.0\DelegateTypes2.csproj.CoreCompileInputs.cache
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\DelegateTypes2\obj\Debug\net8.0\DelegateTypes2.sourcelink.json
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\DelegateTypes2\bin\Debug\net8.0\DelegateTypes2.exe
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\DelegateTypes2\bin\Debug\net8.0\DelegateTypes2.deps.json
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\DelegateTypes2\bin\Debug\net8.0\DelegateTypes2.runtimeconfig.json
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\DelegateTypes2\bin\Debug\net8.0\DelegateTypes2.dll
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\DelegateTypes2\bin\Debug\net8.0\DelegateTypes2.pdb
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\DelegateTypes2\obj\Debug\net8.0\DelegateTypes2.dll
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\DelegateTypes2\obj\Debug\net8.0\refint\DelegateTypes2.dll
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\DelegateTypes2\obj\Debug\net8.0\DelegateTypes2.pdb
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\DelegateTypes2\obj\Debug\net8.0\DelegateTypes2.genruntimeconfig.cache
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\DelegateTypes2\obj\Debug\net8.0\ref\DelegateTypes2.dll

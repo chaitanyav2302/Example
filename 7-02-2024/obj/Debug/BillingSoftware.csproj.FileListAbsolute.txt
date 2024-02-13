@@ -1,0 +1,12 @@
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\BillingSoftware\bin\Debug\BillingSoftware.exe.config
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\BillingSoftware\bin\Debug\BillingSoftware.exe
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\BillingSoftware\bin\Debug\BillingSoftware.pdb
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\BillingSoftware\obj\Debug\BillingSoftware.csproj.AssemblyReference.cache
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\BillingSoftware\obj\Debug\BillingSoftware.Form1.resources
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\BillingSoftware\obj\Debug\BillingSoftware.Properties.Resources.resources
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\BillingSoftware\obj\Debug\BillingSoftware.csproj.GenerateResource.cache
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\BillingSoftware\obj\Debug\BillingSoftware.csproj.CoreCompileInputs.cache
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\BillingSoftware\obj\Debug\BillingSoftware.exe
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\BillingSoftware\obj\Debug\BillingSoftware.pdb
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\BillingSoftware\obj\Debug\BillingSystem.Edit.resources
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\BillingSoftware\obj\Debug\BillingSoftware.Receipt.resources

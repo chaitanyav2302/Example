@@ -1,0 +1,10 @@
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\sqlConnection\obj\Debug\net8.0\sqlConnection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\sqlConnection\obj\Debug\net8.0\sqlConnection.AssemblyInfoInputs.cache
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\sqlConnection\obj\Debug\net8.0\sqlConnection.AssemblyInfo.cs
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\sqlConnection\obj\Debug\net8.0\sqlConnection.csproj.CoreCompileInputs.cache
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\sqlConnection\obj\Debug\net8.0\sqlConnection.sourcelink.json
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\sqlConn\obj\Debug\net8.0\sqlConnection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\sqlConn\obj\Debug\net8.0\sqlConnection.AssemblyInfoInputs.cache
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\sqlConn\obj\Debug\net8.0\sqlConnection.AssemblyInfo.cs
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\sqlConn\obj\Debug\net8.0\sqlConnection.csproj.CoreCompileInputs.cache
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\sqlConn\obj\Debug\net8.0\sqlConnection.sourcelink.json

@@ -1,0 +1,15 @@
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\Serialization_dataContract\bin\Debug\net8.0\Serialization_dataContract.exe
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\Serialization_dataContract\bin\Debug\net8.0\Serialization_dataContract.deps.json
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\Serialization_dataContract\bin\Debug\net8.0\Serialization_dataContract.runtimeconfig.json
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\Serialization_dataContract\bin\Debug\net8.0\Serialization_dataContract.dll
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\Serialization_dataContract\bin\Debug\net8.0\Serialization_dataContract.pdb
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\Serialization_dataContract\obj\Debug\net8.0\Serialization_dataContract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\Serialization_dataContract\obj\Debug\net8.0\Serialization_dataContract.AssemblyInfoInputs.cache
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\Serialization_dataContract\obj\Debug\net8.0\Serialization_dataContract.AssemblyInfo.cs
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\Serialization_dataContract\obj\Debug\net8.0\Serialization_dataContract.csproj.CoreCompileInputs.cache
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\Serialization_dataContract\obj\Debug\net8.0\Serialization_dataContract.sourcelink.json
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\Serialization_dataContract\obj\Debug\net8.0\Serialization_dataContract.dll
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\Serialization_dataContract\obj\Debug\net8.0\refint\Serialization_dataContract.dll
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\Serialization_dataContract\obj\Debug\net8.0\Serialization_dataContract.pdb
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\Serialization_dataContract\obj\Debug\net8.0\Serialization_dataContract.genruntimeconfig.cache
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\Serialization_dataContract\obj\Debug\net8.0\ref\Serialization_dataContract.dll

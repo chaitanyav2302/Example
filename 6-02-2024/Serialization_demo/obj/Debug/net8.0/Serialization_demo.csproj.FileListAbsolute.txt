@@ -1,0 +1,5 @@
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\Serialization_demo\obj\Debug\net8.0\Serialization_demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\Serialization_demo\obj\Debug\net8.0\Serialization_demo.AssemblyInfoInputs.cache
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\Serialization_demo\obj\Debug\net8.0\Serialization_demo.AssemblyInfo.cs
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\Serialization_demo\obj\Debug\net8.0\Serialization_demo.csproj.CoreCompileInputs.cache
+C:\Users\chaitanya_vyshnavi\Documents\Github\Example\6-02-2024\Serialization_demo\obj\Debug\net8.0\Serialization_demo.sourcelink.json
